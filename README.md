@@ -1,4 +1,4 @@
-# First-list-of-C-exercises
+# First-list-of-C++-exercises
 List of 5 basic C++ logic exercises
 
 1) Faça um programa em C++ que peça o nome de uma pessoa, a quantidade de quilômetros que ela andou de bicicleta e o tempo gasto em minutos para percorrer essa distância.
